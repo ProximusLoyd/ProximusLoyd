@@ -22,7 +22,8 @@ I'm a passionate learner and developer with a deep interest in the study of lang
   <a href="https://discord.gg/8EeYytZDcY">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
   </a>
-</p>
+</p> 
+
 ---
 
 ### My Interests
@@ -36,11 +37,11 @@ I'm a passionate learner and developer with a deep interest in the study of lang
 
 <p align="center">
   <a href="https://github.com/ProximusLoyd">
-    <img src="https://github-readme-stats.vercel.app/api?username=ProximusLoyd&show_icons=true&locale=en&theme=tokyonight" alt="proximusloyd" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ProximusLoyd&show_icons=true&locale=en&theme=nord" alt="proximusloyd" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/ProximusLoyd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProximusLoyd&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="proximusloyd" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProximusLoyd&show_icons=true&locale=en&layout=compact&theme=nord" alt="proximusloyd" />
   </a>
 </p>
