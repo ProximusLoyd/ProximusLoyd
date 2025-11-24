@@ -23,20 +23,6 @@ I'm a passionate learner and developer with a deep interest in the study of lang
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
   </a>
 </p>
-
----
-
-### Languages and Tools:
-
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
-  </a>
-  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="archlinux"/>
-  </a>
-</p>
-
 ---
 
 ### My Interests
