@@ -40,8 +40,3 @@ I'm a passionate learner and developer with a deep interest in the study of lang
     <img src="https://github-readme-stats.vercel.app/api?username=ProximusLoyd&show_icons=true&locale=en&theme=nord" alt="proximusloyd" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/ProximusLoyd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProximusLoyd&show_icons=true&locale=en&layout=compact&theme=nord" alt="proximusloyd" />
-  </a>
-</p>
